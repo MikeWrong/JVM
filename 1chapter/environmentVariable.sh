@@ -44,5 +44,3 @@ unset JAVA_HOME
 unset CLASSPATH
 
 make 2>&1 | tee $ALT_OUTPUTDIR/build.log
-
-
